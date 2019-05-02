@@ -2,7 +2,7 @@ Flask
 Flask-RESTful
 Flask-JWT
 Flask-WTF
-PIL
+Image
 Flask-SQLAlchemy
 Flask-Bcrypt
 Flask-Mail
