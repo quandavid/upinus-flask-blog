@@ -1,6 +1,7 @@
 Flask
 Flask-RESTful
 Flask-JWT
+Flask-WTF
 Flask-SQLAlchemy
 Flask-Bcrypt
 Flask-Mail
