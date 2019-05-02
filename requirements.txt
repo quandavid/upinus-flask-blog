@@ -2,5 +2,8 @@ Flask
 Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Mail
+Flask-LoginManager
 uwsgi
 psycopg2
