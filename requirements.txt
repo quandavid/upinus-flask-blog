@@ -4,6 +4,6 @@ Flask-JWT
 Flask-SQLAlchemy
 Flask-Bcrypt
 Flask-Mail
-Flask-LoginManager
+Flask-Login
 uwsgi
 psycopg2
